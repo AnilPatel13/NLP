@@ -37,3 +37,17 @@ gcloud run deploy --project Your-Project_NAME-GCP
 ## Application Screenshot
 
 ![plot](./images/image1.jpeg)
+![plot](./images/image2.jpeg)
+![plot](./images/image3.jpeg)
+![plot](./images/image4.jpeg)
+![plot](./images/image5.jpeg)
+![plot](./images/image6.jpeg)
+![plot](./images/image7.jpeg)
+![plot](./images/image8.jpeg)
+![plot](./images/image9.jpeg)
+![plot](./images/image10.jpeg)
+![plot](./images/image11.jpeg)
+![plot](./images/image12.jpeg)
+![plot](./images/image13.jpeg)
+![plot](./images/image14.jpeg)
+![plot](./images/image15.jpeg)
