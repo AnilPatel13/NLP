@@ -36,18 +36,35 @@ gcloud run deploy --project Your-Project_NAME-GCP
 
 ## Application Screenshot
 
+#### Home page
 ![plot](./images/image1.jpeg)
+
+#### Running Bert Text Summarization
 ![plot](./images/image2.jpeg)
 ![plot](./images/image3.jpeg)
+
+#### Running T5 Text Summarization
 ![plot](./images/image4.jpeg)
 ![plot](./images/image5.jpeg)
+
+#### Running GPT-2 Text Summarization
 ![plot](./images/image6.jpeg)
 ![plot](./images/image7.jpeg)
+
+#### Running XLNET Text Summarization
 ![plot](./images/image8.jpeg)
 ![plot](./images/image9.jpeg)
+
+#### Running WebSite Text Summarization
 ![plot](./images/image10.jpeg)
 ![plot](./images/image11.jpeg)
+
+#### Running User Query Text Summarization
 ![plot](./images/image12.jpeg)
+
+#### Running Pegasus Text Summarization
 ![plot](./images/image13.jpeg)
 ![plot](./images/image14.jpeg)
+
+#### Running Hybrid Text Summarization
 ![plot](./images/image15.jpeg)
