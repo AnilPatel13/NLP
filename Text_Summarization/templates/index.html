@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block title %}Home{% endblock %}
+{% block pagecontent %}
+<main>
+    <div class="container-fluid px-4">
+        <h1 class="mt-4">Text summarization</h1>
+
+        <div class="card mb-4">
+            <div class="card-body">
+                <form>
+                    <div class="mb-3">
+                        <p class="lead">Text Summarization Using NLP</p>
+                        <p>Text summarizing has been utilized in various applications,<mark> including news media,
+social media, financial document analysis, video script analysis, medical science, etc.</mark> It offers a
+wide range of use cases for producing summaries from given documents or articles.</p>
+                       <p>Suppose we use the news media sector as an example. In that case, a text summary
+is extremely beneficial in providing the facts from the document, which might help validate the
+news pertaining to numerous sources. Another point is that when we want a quick overview of a
+great news article, we typically skim it, reading the headlines first before moving on to the
+interesting part and, finally, the conclusion. However, what if the article is well summarized and
+provides the conclusion in two to three sentences rather than having to read the lengthy, time-
+consuming news article in its entirety. As a result, many applications are already on the market
+for text summarization, including Google News, Apple News, Microsoft News, Reddit News,
+etc. All of these products use text summarization to implement NLP.</p>
+                        <p>Hence over here we explored a few of the Pretrained NLP Models and Custom Models and
+                            Trying to build our own Hybrid Model Using <mark> Abstractive and Extractive Text Summarization.</mark></p>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</main>
+{% endblock %}
+{% block javascript %}
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        crossorigin="anonymous"></script>
+<script src="{{url_for('static',filename='js/scripts.js')}}"></script>
+{% endblock %}
